@@ -3,7 +3,7 @@ name = "SigmaOS-astrodon"
 tier = 2
 stability = "scaffold"
 language = "rust"
-description = "astrodon component"
+description = "Astrodon platform compatibility layer for SigmaOS"
 upstream = []
 
 [contract]
